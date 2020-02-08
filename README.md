@@ -108,8 +108,8 @@ TLDR; Use Hold OPTION(⌥) key and press vowel to get the corresponding vowel mo
 ## ಅರ್ಧಾಕ್ಷರ
 TLDR; While holding OPTION before vowel gives vowel modifier as seen in previous section, pressing OPTION before a consonant takes out default vowel.
 For example:
--  ಕ್ ⌥+k == k ⌥+A
--  ಖ್ ⌥+K == K ⌥+A
+-  ಕ್ ⌥+k == k ⌥+a
+-  ಖ್ ⌥+K == K ⌥+a
 - ಅರ್ಧಾಕ್ಷರ = a ⌥+r D ⌥+A ⌥+k X r
 
 ## Credits:
